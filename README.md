@@ -1,4 +1,4 @@
-# Desafio-dio
+# Desafio-Dio
 
 - Criar um projeto no playground usando o Xcode.
 - Definir uma constante com o valor inicial "Steve".
